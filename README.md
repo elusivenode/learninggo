@@ -1,1 +1,1 @@
-# Code and exerises from Learning Go
+# Code and exercises from Learning Go
